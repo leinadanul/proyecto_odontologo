@@ -1,0 +1,53 @@
+[2022-11-10 16:19:55] [ INFO ] [PacienteDAOH2:108] Iniciando la búsqueda del paciente con email=prueba@gmail.com
+[2022-11-10 16:19:55] [ INFO ] [DomicilioDAOH2:52] Iniciando una operación de búsqueda de un domicilio con id=1
+[2022-11-11 13:54:30] [ INFO ] [OdontologoDAOH2:58] Iniciando la busqueda del odontologo con id= 1
+[2022-11-11 14:21:51] [ INFO ] [PacienteDAOH2:57] Iniciando la búsqueda del paciente con id=1
+[2022-11-11 14:21:51] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=1
+[2022-11-11 14:22:18] [ INFO ] [PacienteDAOH2:57] Iniciando la búsqueda del paciente con id=1
+[2022-11-11 14:22:18] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=1
+[2022-11-14 17:13:56] [ INFO ] [PacienteDAOH2:22] Iniciando el guardado del paciente con nombre=Rodolfo
+[2022-11-14 17:13:56] [ INFO ] [DomicilioDAOH2:22] Iniciando una operación de guardado de un domicilio
+[2022-11-14 17:16:44] [ INFO ] [PacienteDAOH2:22] Iniciando el guardado del paciente con nombre=Rodolfo
+[2022-11-14 17:16:44] [ INFO ] [DomicilioDAOH2:22] Iniciando una operación de guardado de un domicilio
+[2022-11-14 17:17:29] [ INFO ] [PacienteDAOH2:22] Iniciando el guardado del paciente con nombre=Rodolfo
+[2022-11-14 17:17:29] [ INFO ] [DomicilioDAOH2:22] Iniciando una operación de guardado de un domicilio
+[2022-11-14 17:17:30] [ INFO ] [PacienteDAOH2:22] Iniciando el guardado del paciente con nombre=Rodolfo
+[2022-11-14 17:17:30] [ INFO ] [DomicilioDAOH2:22] Iniciando una operación de guardado de un domicilio
+[2022-11-14 17:17:30] [ INFO ] [PacienteDAOH2:22] Iniciando el guardado del paciente con nombre=Rodolfo
+[2022-11-14 17:17:30] [ INFO ] [DomicilioDAOH2:22] Iniciando una operación de guardado de un domicilio
+[2022-11-14 17:17:31] [ INFO ] [PacienteDAOH2:22] Iniciando el guardado del paciente con nombre=Rodolfo
+[2022-11-14 17:17:31] [ INFO ] [DomicilioDAOH2:22] Iniciando una operación de guardado de un domicilio
+[2022-11-14 17:17:32] [ INFO ] [PacienteDAOH2:22] Iniciando el guardado del paciente con nombre=Rodolfo
+[2022-11-14 17:17:32] [ INFO ] [DomicilioDAOH2:22] Iniciando una operación de guardado de un domicilio
+[2022-11-14 17:17:32] [ INFO ] [PacienteDAOH2:22] Iniciando el guardado del paciente con nombre=Rodolfo
+[2022-11-14 17:17:32] [ INFO ] [DomicilioDAOH2:22] Iniciando una operación de guardado de un domicilio
+[2022-11-14 17:17:33] [ INFO ] [PacienteDAOH2:22] Iniciando el guardado del paciente con nombre=Rodolfo
+[2022-11-14 17:17:33] [ INFO ] [DomicilioDAOH2:22] Iniciando una operación de guardado de un domicilio
+[2022-11-14 17:19:15] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=10
+[2022-11-14 17:19:15] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=10
+[2022-11-14 17:19:15] [ INFO ] [PacienteDAOH2:93] Iniciando la actualización del paciente con id=10
+[2022-11-14 17:19:15] [ INFO ] [DomicilioDAOH2:82] Iniciando una operación de actualización de domicilio con id=10
+[2022-11-14 17:20:01] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=100
+[2022-11-14 17:20:39] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=100
+[2022-11-14 17:20:46] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=10
+[2022-11-14 17:21:01] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=2
+[2022-11-14 17:21:01] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=2
+[2022-11-14 17:21:01] [ INFO ] [PacienteDAOH2:93] Iniciando la actualización del paciente con id=2
+[2022-11-14 17:21:01] [ INFO ] [DomicilioDAOH2:82] Iniciando una operación de actualización de domicilio con id=10
+[2022-11-14 17:26:46] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=2
+[2022-11-14 17:26:46] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=2
+[2022-11-14 17:27:07] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=200
+[2022-11-14 17:28:17] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=2
+[2022-11-14 17:28:17] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=2
+[2022-11-16 14:50:02] [ INFO ] [OdontologoDAOH2:58] Iniciando la busqueda del odontologo con id= 1
+[2022-11-16 14:50:02] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=2
+[2022-11-16 14:50:02] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=2
+[2022-11-16 14:55:34] [ INFO ] [OdontologoDAOH2:58] Iniciando la busqueda del odontologo con id= 1
+[2022-11-16 14:55:34] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=2
+[2022-11-16 14:55:34] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=2
+[2022-11-16 14:59:24] [ INFO ] [OdontologoDAOH2:58] Iniciando la busqueda del odontologo con id= 1
+[2022-11-16 14:59:24] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=2
+[2022-11-16 14:59:24] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=2
+[2022-11-16 15:06:34] [ INFO ] [OdontologoDAOH2:58] Iniciando la busqueda del odontologo con id= 1
+[2022-11-16 15:06:34] [ INFO ] [PacienteDAOH2:59] Iniciando la búsqueda del paciente con id=2
+[2022-11-16 15:06:34] [ INFO ] [DomicilioDAOH2:53] Iniciando una operación de búsqueda de un domicilio con id=2
